@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "first_name": "Karilynn",
+        "last_name": "Busk",
+        "email": "kbusk0@drupal.org",
+        "gender": "Female",
+        "color": "#8c5743",
+        "image": "https://robohash.org/voluptatumeaet.jpg?size=50x50&set=set1"
+    },
+    {
+        "id": 2,
+        "first_name": "Kinnie",
+        "last_name": "Cess",
+        "email": "kcess1@moonfruit.com",
+        "gender": "Male",
+        "color": "#c97cc6",
+        "image": "https://robohash.org/consequaturrecusandaesed.jpg?size=50x50&set=set1"
+    },
+    {
+        "id": 3,
+        "first_name": "Cathrine",
+        "last_name": "Nuttall",
+        "email": "cnuttall2@webs.com",
+        "gender": "Female",
+        "color": "#698da3",
+        "image": "https://robohash.org/eosexercitationemvoluptas.jpg?size=50x50&set=set1"
+    }
+]
